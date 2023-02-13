@@ -1,0 +1,5 @@
+#Fri Feb 10 10:59:58 SGT 2023
+configuration*?=71ACCC27AA11B26D3EC8231E831B1457B3B0C5AC
+module-resource*?\:checkstyle/suppressions.xml=EF8343D7460B9B2232806D623803FB3C6E2995BE
+/Users/Darryl/Projects/day08_workshop/src/main/java/sg/edu/nus/iss/App.java=1675997966235
+/Users/Darryl/Projects/day08_workshop/src/test/java/sg/edu/nus/iss/AppTest.java=1675997966236

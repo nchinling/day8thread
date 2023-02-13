@@ -1,0 +1,4 @@
+staffNo,fullName,department,role,email,salary
+1234,Daniel,SS,Lect,daniel@gmail.com,5000,
+1235,Eileen,SS,Lect,eileen@gmail.com,7000,
+1236,Steven,SS,Lect,steven@gmail.com,8000,
